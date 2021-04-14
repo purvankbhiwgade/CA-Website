@@ -18,8 +18,8 @@ const useStyles = makeStyles((theme) => ({
       fontSize: "15px",
       fontWeight: "300",
       color: "#333840",
-      fontFamily: `Work Sans, Roboto, -apple-system, BlinkMacSystemFont, Segoe UI, Arial,
-       sans-serif`,
+      // fontFamily: `Work Sans, Roboto, -apple-system, BlinkMacSystemFont, Segoe UI, Arial,
+      //  sans-serif`,
       marginBottom: "0.5rem",
       "&:hover": {
         border: "1px solid #000"
@@ -37,8 +37,8 @@ const useStyles = makeStyles((theme) => ({
       fontSize: "15px",
       fontWeight: "300",
       color: "#333840",
-      fontFamily: `Work Sans, Roboto, -apple-system, BlinkMacSystemFont, Segoe UI, Arial,
-       sans-serif`,
+      // fontFamily: `Work Sans, Roboto, -apple-system, BlinkMacSystemFont, Segoe UI, Arial,
+      //  sans-serif`,
       marginBottom: "0.5rem",
       "&:hover": {
         border: "1px solid #000"
@@ -49,9 +49,9 @@ const useStyles = makeStyles((theme) => ({
       color: "#55595c",
       marginBottom: ".5rem",
       fontSize: "13px",
-      lineHeight: "1.5",
-      fontFamily: `Work Sans, Roboto, -apple-system, BlinkMacSystemFont, Segoe UI, Arial,
-       sans-serif`
+      lineHeight: "1.5"
+      // fontFamily: `Work Sans, Roboto, -apple-system, BlinkMacSystemFont, Segoe UI, Arial,
+      //  sans-serif`
     }
   }
 }));
